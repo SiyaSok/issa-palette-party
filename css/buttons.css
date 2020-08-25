@@ -1,0 +1,79 @@
+@media (min-width: 2200px) {
+
+    .genderPageContent .mrp-btn-black,
+    .genderPageContent .mrp-btn-white,
+    .genderPageContent .mrp-btn-black-bdr,
+    .genderPageContent .mrp-btn-white-bdr {
+        height: 45px !important;
+        width: 200px !important;
+        padding: 10px 0 !important;
+        font-size: 16px !important;
+    }
+}
+
+@media (max-width: 2200px) {
+
+    .genderPageContent .mrp-btn-black,
+    .genderPageContent .mrp-btn-white,
+    .genderPageContent .mrp-btn-black-bdr,
+    .genderPageContent .mrp-btn-white-bdr {
+        height: 45px !important;
+        width: 200px !important;
+        padding: 10px 0 !important;
+        font-size: 16px !important;
+    }
+}
+
+@media (max-width: 1920px) {
+
+    .genderPageContent .mrp-btn-black,
+    .genderPageContent .mrp-btn-white,
+    .genderPageContent .mrp-btn-black-bdr,
+    .genderPageContent .mrp-btn-white-bdr {
+        height: 40px !important;
+        width: 175px !important;
+        padding: 9px 0 !important;
+        font-size: 14px !important;
+    }
+}
+
+@media (max-width: 1600px) {
+
+    .genderPageContent .mrp-btn-black,
+    .genderPageContent .mrp-btn-white,
+    .genderPageContent .mrp-btn-black-bdr,
+    .genderPageContent .mrp-btn-white-bdr {
+        height: 35px !important;
+        width: 155px !important;
+        padding: 6px 0 !important;
+        font-size: 14px !important;
+    }
+}
+
+
+@media (max-width: 990px) {
+
+    .genderPageContent .mrp-btn-black,
+    .genderPageContent .mrp-btn-white,
+    .genderPageContent .mrp-btn-black-bdr,
+    .genderPageContent .mrp-btn-white-bdr {
+        height: 30px !important;
+        width: 130px !important;
+        padding: 6px 0 !important;
+        font-size: 12px !important;
+    }
+}
+
+@media (max-width: 767px) {
+
+    .genderPageContent .mrp-btn-black,
+    .genderPageContent .mrp-btn-white,
+    .genderPageContent .mrp-btn-black-bdr,
+    .genderPageContent .mrp-btn-white-bdr {
+        width: 80% !important;
+        color: #fff;
+        font-size: 14px !important;
+        padding: 14px 0 !important;
+        height: auto !important;
+    }
+}
